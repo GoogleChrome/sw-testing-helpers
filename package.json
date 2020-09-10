@@ -46,7 +46,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^2.0.0",
     "jsdoc": "^3.4.0",
-    "node-fetch": "^1.5.0",
+    "node-fetch": "^2.6.1",
     "npm-publish-scripts": "^2.0.6",
     "require-dir": "^0.3.0",
     "rollupify": "^0.3.1",
